@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<!-- ═══════════════ NOMII lEGENT ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:1BAFBA,100:25D366&height=220&section=header&text=ALI-MD&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Multi-Device%20WhatsApp%20Bot&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════ ANIMATED TYPING TITLE ═══════════════ -->
